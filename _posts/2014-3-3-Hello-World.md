@@ -1,9 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: Week 1 post
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Hi Everyone,
+
+I am Kaivan and I will posting about my experience of attending the CS 371p class this semester.
+
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
