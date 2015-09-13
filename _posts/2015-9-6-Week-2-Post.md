@@ -1,19 +1,21 @@
 ---
 layout: post
-title: Week 2
+title: Week 3
 ---
 
 Namaste,
 
-The first full week of Object Oriented Programming has come to a close and it is time for my 2nd Weekly blog. Three good things I have learned:
-1.The lecture and quiz are pretty interesting.
-2.Piazza is awesome
-3.Having windows for this class is a curse.
+The second week of Object Oriented Programming and was it a short one. Due to the labor day weekend we only had two classes this week. Three highlights of the week:
+1. Bloomberg Guest Speaker
+2. Engineering Expo
+3. Project #1 Collatz due
 
-We got our first project assigned to us this week, Collatz. Throughout the week the lectures were focused on the project with him explaining the details what the project asked and needed from us. He is very specific with all the detials of the project and that is because the code is checked using a script. So, basically if we have one of the process going wrong the script will return with an error and straight zero points. The lectures of prof. Downing are very detailed. I like how he goes into detail of even the basic concepts so that they fit in our head and we never make those silly mistakes. The quiz questions were adopted from the readings and his in-class teachings.
+Prof. Downing as promised in the beginning that he is going to bring few speakers to the class and so he did. Chris Martin from Bloomberg came in and talked about the company as being a "software company" and not a "finace company". Though the company deals with funds and equity, most of the stuff going on inside Bloomberg is software related. The company builds all the software they need internally which is unique, and use a variety of programming languages: C++, Javascript are the most used one. I also learned that they are a private company which is a good thing as they can make decisions without being worried about the shareholders! Chris Martin being one of the recuriters also gave me tips about the resume and be able to explain the details of the resume in a properly explainable manner. It was a really good experience.
 
-Piazza is very helpful. Never realised the potential of Piazza before this class. Also, having points for the questions and response is an excellent way to make some students participate. According to me, the idea of piazza evolves around students collabarating and participating to do the same work. So if one person facing an issue will post the question on piazza and there might be someone who might have faced the similar issue earlier in time. If not then others can help out in solving that particular issue. It is also a good platform for discussions.
+Engineering Expo! Well as a Computer Science major we will have our cns fair but I still wanted to attend the expo to get the feel of it. I took it as a way to prepare for CNS career fair. Be able to explain them my resume, learned about the companies and took tips from the recuriters to improve my resume. In all it was a good experience.
 
-We were also introduced to whole new sets of tools to use for developing and debugging. Reading piazza, I found that installing g++ compiler of different versions is an issue and gtest won't work. I did not take any pains to do it on my windows machine. I have preferred to go to the lab and work on it as I knew the lab machines won't have any issue with it. I have met few people that way and it has been much easier and faster to work with someone instead of trying to figure out everything by yourself. For example, I am new to git and I was facing a tough time with it. But, while working in the lab I found someone who helped me understand the basic functions of git. Also, the discussion sessions are helpful and a good way to track if you are taking a right approach to the project. I also have a virtual box and linux installed on it, which I should plan on using it later in the semester. Though there is an issue with the compatibility of linux on the virtual box since I am only able to see 1/3 of the desktop. Hopefully I can figure that out. Until that I will see you next week. Shukriya.
+Project #1 Collatz was due this week on Thursday. I implemented caching for the first time and saw it in real time how it optimized run time of my program. I implemented Lazy caching which helped me get the time to 0.00s from 0.02s, though I would still like to learn and implement Eager Caching. Learned how to make proper documentation with the help of Doxygen. Really cool tool. Finished the assignment on time. Now my eyes are on reading the textbook that I just received this week! Until then I'll see you next week.
 
-Tip of the week: Use Piazza! Piazza is a source of information with people collaborating and posting notes and helpful tips. I believe every class should make it mandatory to use Piazza.
+Shukriya.
+
+Tip of the week: I learned something new this week, about github, that one can delete the subfolder/directory. On your local repo input in the terminal: "git rm -f --cached foldername" and add, commit, push the change made.
